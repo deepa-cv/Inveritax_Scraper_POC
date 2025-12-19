@@ -53,6 +53,7 @@ SCRAPER_HEADLESS = True  # False to see browser
 
 ### Normalized (Recommended)
 Creates 5 CSV files + 1 Excel file:
+For lacrosse county it is:
 - `lacrosse_normalized_properties.csv`
 - `lacrosse_normalized_tax_periods.csv`
 - `lacrosse_normalized_installments.csv`
